@@ -1,0 +1,111 @@
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-size:1.5em;
+     }
+.cont-1 {
+  min-height: 300px;
+  background-image:
+  url("http://www.dhruvsofttechnology.com/wp-content/uploads/2016/01/aspnet1.jpg");
+  background-position-x: 50%;
+  background-position-y: 85%;
+  background-size: cover;
+background-color:pink;}
+.border
+{
+  margin-right:25px;
+}
+.size{
+  font-size:2em;
+  padding-left:380px;
+}
+.intro {
+  padding-top: 80px;
+  color: black;
+  font-size:4em;
+  }
+.sub{
+  font-size:2em;
+}
+.cont-2
+{
+  min-height:300px;
+  background-image:url(http://goldenbatamraya.com/wp-content/uploads/2013/09/banner-biru-polos.png);
+  background-position-x: 50%;
+  background-position-y: 85%;
+  
+  background-size: cover;
+  
+}
+.green{
+  color:black;
+  font-size:3.5em;
+  padding-left:100px;
+  padding-top:50px;
+  padding-bottom:30px;
+}
+.border0{
+   paddling-left:40px;
+      color:white;
+  padding-left:100px;
+  font-size:2em;
+  padding-bottom:30px;
+}
+.cont-2-img-right {
+  width: 200px;
+  height: 300px;
+  border-radius: 80%;
+  float: right;
+padding-top:50px;}
+.thumbnail {
+  width: 100%;
+  height: 290px;
+  background-color: gray;
+  font-size: 1.5em;
+  font-weight: bold;
+  font-family: Italic;
+  padding: 1px;
+  margin-bottom: 40px;
+  border: 0px;
+  box-shadow: 8px 5px 10px black;
+  color: black;
+  text-decoration:none;
+    margin-top:20px;
+}
+.thumbnail:hover {
+  background-color: #778899;
+  text-decoration: none;
+  color: black;
+  
+  }
+ .cont-3{background-image: url("http://www.dhruvsofttechnology.com/wp-content/uploads/2016/01/aspnet1.jpg");
+  background-position-x: 50%;
+  background-position-y: 85%;
+   background-size: cover;}
+.cont-4 {
+  margin: 0px;
+  padding: 0px;
+  background-color: #adad85;
+  height: 350px;
+}
+.cont-4 h3 {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: #000080;
+  padding-top: 100px;}
+footer {
+  padding-top: 18px;
+  
+}
+footer li {
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 40px;
+}
+.ftr-nav a {
+  text-decoration: none;
+}
+footer p {
+  font-weight: bold;
+}
